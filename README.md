@@ -1,3 +1,3 @@
 # ReactNative-Asset
 
-![Native-Asset](./assets/Native-Asset.png)
+![Native-Asset](https://github.com/LauraCanon/ReactNative-Asset/blob/main/assets/Native-Asset.PNG)
