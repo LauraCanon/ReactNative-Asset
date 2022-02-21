@@ -42,6 +42,9 @@ const Cards = () => {
         data={data}
         renderItem={renderItem}
         keyExtractor={(item) => item.id}
+        ItemSeparatorComponent={() => (
+          <View style={{ width: "100%", height: 1, backgroundColor: "#000" }} />
+        )}
       />
     </SafeAreaView>
   );
